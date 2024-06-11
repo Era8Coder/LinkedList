@@ -1,3 +1,8 @@
+/*
+    Also watch the Merge Sort Method <<--
+    https://www.youtube.com/watch?v=8ocB7a_c-Cc
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
